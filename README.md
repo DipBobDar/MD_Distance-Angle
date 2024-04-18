@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DipBobDar
 - 👀 I’m interested in using Python and R coding for Bioinformatics
 - 🌱 I’m currently learning more from practical works
-- 💞️ I’m looking to collaborate on Biological and Biochemical Data pertaining to Drug Design and Drug Repurposing.
+- 💞️ I’m looking to collaborate on Biological and Biochemical Data pertaining to Enzyme Design, Drug Design and Drug Repurposing.
 - 📫 How to reach me (dipbobdar@gmail.com)
 
 <!---
